@@ -11,3 +11,5 @@ sudo systemctl start nginx
 
 echo "Enabling Nginx on boot..."
 sudo systemctl enable nginx
+
+webpage is kept at /var/www.nginix
